@@ -10,5 +10,5 @@ phases:
         - echo Build completed successfully
 artifacts:
   files:
-    - targets/springboot-aws-lambda.jar
+    - target/springboot-aws-lambda.jar
   discard-paths: yes   
