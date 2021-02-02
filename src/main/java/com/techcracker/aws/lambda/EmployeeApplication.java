@@ -32,8 +32,4 @@ public class EmployeeApplication {
 				.collect(Collectors.toList());
 	}
 
-	public static void main(String[] args) {
-		SpringApplication.run(EmployeeApplication.class, args);
-	}
-
 }
